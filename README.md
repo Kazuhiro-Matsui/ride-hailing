@@ -5,7 +5,7 @@
 > リアルタイム配車支援と前日バッチ計画の **2 つの運用シナリオ**を想定し、それぞれに対応するモデル（1 時間前ラグ／24 時間前ラグ）を設計した。
 > Google Colab 無料枠で再現可能な軽量設計。
 >
-> **※GitHub側のレンダラー障害により直接表示できない場合があります。
+**※GitHub側のレンダラー障害により直接表示できない場合があります。
 その場合は恐れ入りますが、下記↓の『Open in Colab』バッジからご覧ください**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhiro-Matsui/ride-hailing/blob/main/ride_hailing.ipynb)
