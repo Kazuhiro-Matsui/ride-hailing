@@ -4,6 +4,9 @@
 > 時空間テンソル積平滑化と平日／休日別スプラインにより需要パターンを表現し、**ラグ特徴量（1 時間前需要）を加えた最終モデルで Deviance Explained 90.6%** を達成。
 > リアルタイム配車支援と前日バッチ計画の **2 つの運用シナリオ**を想定し、それぞれに対応するモデル（1 時間前ラグ／24 時間前ラグ）を設計した。
 > Google Colab 無料枠で再現可能な軽量設計。
+>
+> **※GitHub側のレンダラー障害により直接表示できない場合があります。
+その場合は恐れ入りますが、下記↓の『Open in Colab』バッジからご覧ください**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhiro-Matsui/ride-hailing/blob/main/ride_hailing.ipynb)
 
